@@ -2,8 +2,9 @@ Python
 ======
 
 ## Basic Python setup for data analysis
-- The IPython notebook runs in the browser, and works best in Google Chrome. The Anaconda Python distribution is an easily-installable bundle of Python and many commonly used libraries. Download the appropriate version of Anaconda [here](http://continuum.io/downloads). 
-- Extra libraries that are useful for python:
+The IPython notebook runs in the browser, and works best in Google Chrome. The Anaconda Python distribution is an easily-installable bundle of Python and many commonly used libraries. Download the appropriate version of Anaconda [here](http://continuum.io/downloads). 
+
+Extra libraries that are useful for python:
 1. [BeautifulSoup](http://www.crummy.com/software/BeautifulSoup/)
 2. [Pattern](http://www.clips.ua.ac.be/pattern)
 3. [Seaborn](http://web.stanford.edu/~mwaskom/software/seaborn/)
