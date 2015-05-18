@@ -4,6 +4,7 @@ IMDB movie data visualization
 Retrieve the updated IMDB datasets countries.list.gz, genres.list.gz and ratings.list.gz at ftp://ftp.fu-berlin.de/pub/misc/movies/database/.
 
 **IMDB visualization.ipynb:**
+
 1) Create a world map to display the average movie rating by country. 
 
 ![world map.png](https://github.com/shngli/Data-Mining-Python/blob/master/IMDB%20movie%20data%20visualization/world%20map.png)
