@@ -37,6 +37,7 @@ head -n6 donations.txt
 ![cumulative refunds.png](https://github.com/shngli/Data-Mining-Python/blob/master/2012%20Presidential%20Campaign%20Finance/cumulative%20refunds.png)
 
 7)  Compares frequency of Obama's and Romney's campaign donations with a histogram between -$3000 and $3000 and a boxplot. 
+
 ![obama romney histogram.png](https://github.com/shngli/Data-Mining-Python/blob/master/2012%20Presidential%20Campaign%20Finance/obama%20romney%20histogram.png)
 
 ![obama romney boxplot.png](https://github.com/shngli/Data-Mining-Python/blob/master/2012%20Presidential%20Campaign%20Finance/obama%20romney%20boxplot.png)
