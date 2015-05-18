@@ -18,4 +18,3 @@ References
 1. **Learning Python (5th Edition)** by Mark Lutz
 2. **Python for Data Analysis** by Wes McKinney
 3. **Introduction to Python for Econometrics, Statistics and Data Analysis** by Kevin Sheppard
-4. **[How to Process, Analyze and Visualize Data](http://dataiap.github.io/dataiap/)** by Adam Marcus and Eugene Wu
