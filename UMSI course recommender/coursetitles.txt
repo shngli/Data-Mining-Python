@@ -1,0 +1,173 @@
+STRATEGY_673-1	Technology and the Management of Innovation
+STRATEGY_675-1	New Game Business Models
+HISTORY_698-1	Processing the Past: Social Memory
+UP_507-1	Advanced Geographic Information Systems
+NRE_540-1	GIS for Natural Resources Applications
+OMS_501-1	Applied business statistics
+ARCH_531-1	Networked cities
+IOE_536-1	Cognitive Ergonomics
+BIT_512-1	Decision Support
+AMCULT_993-1	Graduate Student Instructor Training Program
+BIT_551-1	Creating Value Through IT-Enabled Business Change 
+BIT_646-1	Solving Societal Problems Through Enterprise and Innovation
+BIT_648-1	Social Enterprise Project
+EDUC_402-1	Reading and Writing in Content Areas
+EDUC_606-1	Developmental and Psychological Perspectives in Education
+EDUC_649-1	Foundational Perspectives on Educational Reform
+EDUC_650-1	Reflective Teaching Field Experience
+ELI_320-1	Writing for Academic Purposes I
+ELI_321-1	Writing for Academic Purposes II
+MO_561-1	Interpersonal Dynamics in Organizations
+MSP_601-1	Museum Proseminar I
+MSP_602-1	Museum Proseminar II
+MSP_609-1	Museum practicum
+MUSMETH_406-1	Special Problems in Museum Methods
+PSYCH_613-1	Adv Statistics I
+PSYCH_808-1	Special seminar
+PSYCH_988-1	Seminar in Social Psychology
+PUBPOL_529-1	Statistics
+PUBPOL_585-1	Political Environment of Policy Analysis
+PUBPOL_636-1	Program Evaluation I
+PUBPOL_638-1	Integrated Policy Exercise
+PUBPOL_671-1	Pol Mgt Nonprofit Sector
+PUBPOL_715-1	Public Budgeting
+PUBPOL_754-1	Research Seminar in Science, Technology, and Public Policy
+SI_500-1	Information in Social Systems: Collections, Flows, and Processing
+SI_501-1	Use of Information 
+SI_502-1	Choice and Learning 
+SI_503-1	Search and Retrieval 
+SI_504-1	Social Systems and Collections 
+SI_505-1	Drupal Configuration and Customization 
+SI_507-1	Foundations of Information Policy Analysis and Design
+SI_508-1	Networks
+SI_510-1	Special Topics: Data Security and Privacy
+SI_511-1	Special Topics: Seminar on Information Industry 
+SI_514-1	Special Topics: Introduction to Semantic Web Ideas 
+SI_515-1	Material Culture and the Interpretation of Objects 
+SI_516-1	Special Topics: Research and Technology in the Humanities 
+SI_519-1	Special Topics: Intellectual Property and Information Law 
+SI_520-1	Graphic Design 
+SI_530-1	Principles in Management 
+SI_532-1	Digital Government I: Information Technology and Democratic Politics 
+SI_533-1	Digital Government II: Information Technology and Democratic Administration 
+SI_539-1	Design of Complex Web Sites 
+SI_540-1	Understanding Networked Computing 
+SI_541-1	Systems, Networks, and Webs 
+SI_542-1	Introduction to Health Informatics 
+SI_543-1	Programming I (Java) 
+SI_544-1	Introduction to Statistics and Data Analysis 
+SI_548-1	Principles of Software Design for Learning 
+SI_549-1	Learning Technologies Across the Content Areas 
+SI_550-1	Seminar in Information Policy: Regulation and Politics
+MUSICOL_503-1	Biography of Music
+MHS_663-1	Grantgetting, contracting, and fund raising
+HISTART_754-1	Early modern art theory and practice
+EDCURINS_575-1	Instructional design for information skills
+DESCI_502-1	Design process models
+ACC_630-1	Communication for the Tax. Professional
+ARTDES_700-1	Progress Seminar
+SI_551-1	Information-Seeking Behavior 
+COMM_810-1	The Information Society
+SI_553-1	Multimedia Production 
+SI_557-1	Visual Persuasion 
+SI_561-1	Natural Language Processing 
+SI_562-1	Microeconomics for Information Professionals
+SI_563-1	Game Theory
+SI_572-1	Database Application Design
+SI_575-1	Community Information Corps Seminar 
+SI_579-1	Government Information: Issues, Resources, and Policy 
+SI_580-1	Understanding Records and Archives: Principles and Practices 
+SI_581-1	Preserving Information 
+SI_583-1	Recommender Systems 
+SI_586-1	Music Bibliography 
+SI_593-1	Rapid Response Informatics 
+SI_596-1	Practical Engagement Workshop: Digital Librarianship 
+SI_599-1	Practical Engagement Workshop: Information Technologies in Small Nonprofit Organizations 
+SI_601-1	DRAT: data manipulation 
+SI_605-1	Special Topics: The Development and Future of the Internet 
+SI_614-1	Special Topics: Networks: Theory and Application 
+SI_615-1	Special Topics: Digital Libraries 
+SI_616-1	Special Topics: Current Issues in School Media 
+SI_617-1	Law and Management of the Information Corporation 
+SI_618-1	DRAT: exploratory data analysis
+SI_620-1	Collection Development and Management 
+SI_621-1	Ethics, Values, and Information Dilemmas 
+SI_622-1	Evaluation of Systems and Services 
+SI_623-1	Outcome-based Evaluation of Programs and Services 
+SI_624-1	Media for Children and Young Adults 
+SI_625-1	Microeconomics for Information Professionals 
+SI_626-1	Management of Specialized Information Services 
+SI_627-1	Managing the Information Technology Organization
+SI_629-1	Access Systems for Archival Materials 
+SI_631-1	Practical Engagement Workshop: Content Management Systems 
+SI_632-1	Appraisal of Archives 
+SI_633-1	History of Books and Printing 
+SI_637-1	Research Seminar on Archives and Institutions of Social Memory 
+SI_638-1	School Library Media Management
+SI_639-1	Web Archiving
+SI_641-1	Instructional Design for Information Skills 
+SI_643-1	Professional Practice in Libraries and Information Centers 
+SI_644-1	Advanced Preservation Administration
+SI_645-1	Information Use in Communitites 
+SI_646-1	Information Economics 
+SI_647-1	Information Resources and Services 
+SI_648-1	InfoCulture: Theory and Methods in the History and Sociology of Information Technology 
+SI_649-1	Information Visualization 
+SI_652-1	Electronic Commerce 
+SI_654-1	Database Application Design 
+SI_655-1	Management of Electronic Records 
+SI_658-1	Information Architecture 
+SI_661-1	Natural Language Processing 
+SI_663-1	Entrepreneurship in the Information Industry 
+SI_665-1	Online Searching and Databases 
+SI_666-1	Organization of Information Resources 
+SI_668-1	Seminar in Information Policy: Regulation and Politics 
+SI_670-1	Information in Organizations 
+SI_675-1	Digitization for Preservation
+SI_676-1	Law and Management of the Information Corporation 
+SI_678-1	Preserving Sound and Motion
+SI_679-1	Aggregation and Prediction Markets 
+SI_680-1	Incentive-Centered Design: Contracting and Signaling 
+SI_681-1	Internship/Field Experience & Seminar in Practical Engagement 
+SI_682-1	Interface and Interaction Design 
+SI_683-1	Reputation Systems 
+SI_684-1	eCommunities: Analysis and Design of Online Interaction Environments 
+SI_686-1	Public Goods 
+SI_687-1	Matching Mechanisms 
+SI_688-1	Fundamentals of Human Behavior 
+SI_689-1	Computer-Supported Cooperative Work 
+SI_690-1	Internship/Field Experience 
+SI_692-1	Practical Engagement Workshop in Archives and Records 
+SI_693-1	Rapid Response Informatics 
+SI_696-1	Practical Engagement Workshop: Advanced Digital Librarianship 
+SI_699-1	Practical Engagement Workshop: Information Technologies in Small Nonprofit Organizations 
+SI_701-1	Doctoral Foundations 
+SI_702-1	Seminar in Organizational Studies (ICOS) 
+SI_705-1	Learning Sciences 
+SI_708-1	Networks: Theory and Application 
+SI_719-1	Knowledge/Power/Practice in Science, Technology, and Medicine 
+SI_722-1	Theories and Models in Information Studies 
+SI_724-1	Qualitative Methods 
+SI_729-1	Access Systems for Archival Materials 
+SI_731-1	Advanced Information Economics 
+SI_732-1	Digital Government: Information Technology and Democratic Governance 
+SI_737-1	Research Seminar on Archives and Institutions of Social Memory 
+SI_741-1	Systems, Networks, and Webs 
+SI_745-1	Information Use in Communitites 
+SI_746-1	Information Economics 
+SI_748-1	InfoCulture: Theory and Methods in the History and Sociology of Information Technology 
+SI_751-1	Information-Seeking Behavior 
+SI_760-1	Language and Information 
+SI_761-1	Natural Language Processing 
+SI_767-1	Advanced Natural Language Processing and Information Retrieval 
+SI_768-1	Seminar on Information Policy: Regulation and Politics 
+SI_786-1	Public Goods 
+SI_787-1	Matching Mechanisms 
+SI_789-1	Computer-Supported Cooperative Work 
+SI_791-1	Independent Study 
+SI_792-1	Independent Study 
+SI_840-1	Research Methods 
+SI_860-1	Research Methods Course in Experimental Methods 
+SI_884-1	eCommunities: Analysis and Design of Online Interaction Environments 
+SI_888-1	Doctoral Research Seminar 
+SI_888-1	Doctoral Research Seminar: Information and Adaptation in Human Systems 

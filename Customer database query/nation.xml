@@ -1,0 +1,152 @@
+<table ID="nation">
+    <T>
+        <N_NATIONKEY>0</N_NATIONKEY>
+        <N_NAME>ALGERIA</N_NAME>
+        <N_REGIONKEY>0</N_REGIONKEY>
+        <N_COMMENT>final accounts wake quickly. special reques</N_COMMENT>
+    </T>
+    <T>
+        <N_NATIONKEY>1</N_NATIONKEY>
+        <N_NAME>ARGENTINA</N_NAME>
+        <N_REGIONKEY>1</N_REGIONKEY>
+        <N_COMMENT>idly final instructions cajole stealthily. regular instructions wake carefully blithely express accounts. fluffi</N_COMMENT>
+    </T>
+    <T>
+        <N_NATIONKEY>2</N_NATIONKEY>
+        <N_NAME>BRAZIL</N_NAME>
+        <N_REGIONKEY>1</N_REGIONKEY>
+        <N_COMMENT>always pending pinto beans sleep sil</N_COMMENT>
+    </T>
+    <T>
+        <N_NATIONKEY>3</N_NATIONKEY>
+        <N_NAME>CANADA</N_NAME>
+        <N_REGIONKEY>1</N_REGIONKEY>
+        <N_COMMENT>foxes among the bold requests</N_COMMENT>
+    </T>
+    <T>
+        <N_NATIONKEY>4</N_NATIONKEY>
+        <N_NAME>EGYPT</N_NAME>
+        <N_REGIONKEY>4</N_REGIONKEY>
+        <N_COMMENT>pending accounts haggle furiously. furiously bold accounts detect. platelets at the packages haggle caref</N_COMMENT>
+    </T>
+    <T>
+        <N_NATIONKEY>5</N_NATIONKEY>
+        <N_NAME>ETHIOPIA</N_NAME>
+        <N_REGIONKEY>0</N_REGIONKEY>
+        <N_COMMENT>fluffily ruthless requests integrate fluffily. pending ideas wake blithely acco</N_COMMENT>
+    </T>
+    <T>
+        <N_NATIONKEY>6</N_NATIONKEY>
+        <N_NAME>FRANCE</N_NAME>
+        <N_REGIONKEY>3</N_REGIONKEY>
+        <N_COMMENT>even requests detect near the pendin</N_COMMENT>
+    </T>
+    <T>
+        <N_NATIONKEY>7</N_NATIONKEY>
+        <N_NAME>GERMANY</N_NAME>
+        <N_REGIONKEY>3</N_REGIONKEY>
+        <N_COMMENT>blithely ironic foxes grow. quickly pending accounts are b</N_COMMENT>
+    </T>
+    <T>
+        <N_NATIONKEY>8</N_NATIONKEY>
+        <N_NAME>INDIA</N_NAME>
+        <N_REGIONKEY>2</N_REGIONKEY>
+        <N_COMMENT>ironic packages should have to are slyly around the special, ironic accounts. iron</N_COMMENT>
+    </T>
+    <T>
+        <N_NATIONKEY>9</N_NATIONKEY>
+        <N_NAME>INDONESIA</N_NAME>
+        <N_REGIONKEY>2</N_REGIONKEY>
+        <N_COMMENT>unusual excuses are quickly requests. slyly ironic accounts haggle carefully above the pendin</N_COMMENT>
+    </T>
+    <T>
+        <N_NATIONKEY>10</N_NATIONKEY>
+        <N_NAME>IRAN</N_NAME>
+        <N_REGIONKEY>4</N_REGIONKEY>
+        <N_COMMENT>blithely even accounts about the furiously regular foxes nag slyly final accounts. quickly final fo</N_COMMENT>
+    </T>
+    <T>
+        <N_NATIONKEY>11</N_NATIONKEY>
+        <N_NAME>IRAQ</N_NAME>
+        <N_REGIONKEY>4</N_REGIONKEY>
+        <N_COMMENT>express, pending deposits boost quick</N_COMMENT>
+    </T>
+    <T>
+        <N_NATIONKEY>12</N_NATIONKEY>
+        <N_NAME>JAPAN</N_NAME>
+        <N_REGIONKEY>2</N_REGIONKEY>
+        <N_COMMENT>blithely final packages cajole quickly even dependencies? blithely regular deposits haggle express, ironic re</N_COMMENT>
+    </T>
+    <T>
+        <N_NATIONKEY>13</N_NATIONKEY>
+        <N_NAME>JORDAN</N_NAME>
+        <N_REGIONKEY>4</N_REGIONKEY>
+        <N_COMMENT>blithe, express deposits boost carefully busy accounts. furiously pending depos</N_COMMENT>
+    </T>
+    <T>
+        <N_NATIONKEY>14</N_NATIONKEY>
+        <N_NAME>KENYA</N_NAME>
+        <N_REGIONKEY>0</N_REGIONKEY>
+        <N_COMMENT>ironic requests boost. quickly pending pinto beans cajole slyly slyly even deposits. ironic packages</N_COMMENT>
+    </T>
+    <T>
+        <N_NATIONKEY>15</N_NATIONKEY>
+        <N_NAME>MOROCCO</N_NAME>
+        <N_REGIONKEY>0</N_REGIONKEY>
+        <N_COMMENT>ideas according to the fluffily final pinto beans sleep furiously</N_COMMENT>
+    </T>
+    <T>
+        <N_NATIONKEY>16</N_NATIONKEY>
+        <N_NAME>MOZAMBIQUE</N_NAME>
+        <N_REGIONKEY>0</N_REGIONKEY>
+        <N_COMMENT>ironic courts wake fluffily even, bold deposi</N_COMMENT>
+    </T>
+    <T>
+        <N_NATIONKEY>17</N_NATIONKEY>
+        <N_NAME>PERU</N_NAME>
+        <N_REGIONKEY>1</N_REGIONKEY>
+        <N_COMMENT>final, final accounts sleep slyly across the requests.</N_COMMENT>
+    </T>
+    <T>
+        <N_NATIONKEY>18</N_NATIONKEY>
+        <N_NAME>CHINA</N_NAME>
+        <N_REGIONKEY>2</N_REGIONKEY>
+        <N_COMMENT>bold accounts are. slyly ironic escapades haggle acc</N_COMMENT>
+    </T>
+    <T>
+        <N_NATIONKEY>19</N_NATIONKEY>
+        <N_NAME>ROMANIA</N_NAME>
+        <N_REGIONKEY>3</N_REGIONKEY>
+        <N_COMMENT>deposits boost against the brave id</N_COMMENT>
+    </T>
+    <T>
+        <N_NATIONKEY>20</N_NATIONKEY>
+        <N_NAME>SAUDI ARABIA</N_NAME>
+        <N_REGIONKEY>4</N_REGIONKEY>
+        <N_COMMENT>fluffily final accounts wake slyly-- fi</N_COMMENT>
+    </T>
+    <T>
+        <N_NATIONKEY>21</N_NATIONKEY>
+        <N_NAME>VIETNAM</N_NAME>
+        <N_REGIONKEY>2</N_REGIONKEY>
+        <N_COMMENT>doggedly ironic requests haggle furiously ironic, ironic packages. furiously final courts wake fur</N_COMMENT>
+    </T>
+    <T>
+        <N_NATIONKEY>22</N_NATIONKEY>
+        <N_NAME>RUSSIA</N_NAME>
+        <N_REGIONKEY>3</N_REGIONKEY>
+        <N_COMMENT>slowly pending patterns x-ray quickly. ironic, even accounts haggle furiously. even, final deposits mold bl</N_COMMENT>
+    </T>
+    <T>
+        <N_NATIONKEY>23</N_NATIONKEY>
+        <N_NAME>UNITED KINGDOM</N_NAME>
+        <N_REGIONKEY>3</N_REGIONKEY>
+        <N_COMMENT>fluffily regular pinto beans breach according to the ironic dolph</N_COMMENT>
+    </T>
+    <T>
+        <N_NATIONKEY>24</N_NATIONKEY>
+        <N_NAME>UNITED STATES</N_NAME>
+        <N_REGIONKEY>1</N_REGIONKEY>
+        <N_COMMENT>blithely regular deposits serve furiously blithely regular warthogs! slyly fi</N_COMMENT>
+    </T>
+</table>

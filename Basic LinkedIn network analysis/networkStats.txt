@@ -1,0 +1,6 @@
+my degree is: 467
+the graph diameter is: 4
+the center is: ['sheng_li']
+there are 14 clique communities
+degree: {'abu_nayeem': 49}
+shortest path between Moses and a friend['moses_lee', 'sheng_li', 'adam_becenti']

@@ -1,0 +1,52 @@
+state	Median Income (dollars)	Standard Error (dollars)
+New Jersey	59989 	1112 
+Maryland	58347 	1071 
+New Hampshire	58223 	1113 
+Hawaii	57572 	1040 
+Connecticut	57369 	1166 
+Minnesota	56084 	846 
+Alaska	55935 	1105 
+Massachusetts	54617 	1075 
+Virginia	54301 	930 
+Utah	53226 	749 
+Colorado	52011 	987 
+California	51647 	479 
+Delaware	50970 	946 
+Washington	50885 	847 
+Rhode Island	48823 	1155 
+Vermont	48508 	861 
+Nevada	48314 	1101 
+Illinois	47978 	688 
+Wisconsin	47004 	851 
+Nebraska	46613 	980 
+New York	46242 	598 
+District of Columbia	45900 	1318 
+Pennsylvania	45814 	630 
+Michigan	45793 	653 
+Wyoming	45598 	878 
+Iowa	45086 	922 
+Idaho	44994 	883 
+Ohio	44961 	709 
+Arizona	44748 	918 
+Georgia	44439 	580 
+Missouri	44324 	712 
+Kansas	43802 	1013 
+Indiana	43735 	776 
+Oregon	43570 	816 
+South Dakota	42525 	804 
+Florida	42079 	524 
+Maine	42006 	870 
+Texas	41959 	427 
+North Dakota	41869 	810 
+North Carolina	41067 	648 
+South Carolina	40350 	799 
+Tennessee	39524 	820 
+New Mexico	39029 	1074 
+Oklahoma	38895 	815 
+Alabama	38180 	990 
+Kentucky	37566 	731 
+Louisiana	36814 	877 
+Montana	36200 	695 
+Arkansas	35591 	744 
+West Virginia	35234 	785 
+Mississippi	34508 	847 

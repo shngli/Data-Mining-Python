@@ -1,0 +1,52 @@
+State	Obesity rate	Median household income
+Mississippi	29.5	34508 
+Alabama	28.9	38180 
+West Virginia	27.6	35234 
+Tennessee	27.2	39524 
+Louisiana	27	36814 
+Arkansas	26.1	35591 
+Texas	25.8	41959 
+Kentucky	25.8	37566 
+Indiana	25.5	43735 
+Michigan	25.4	45793 
+Ohio	25.3	44961 
+South Carolina	25.1	40350 
+Oklahoma	24.9	38895 
+Missouri	24.9	44324 
+Georgia	24.7	44439 
+North Dakota	24.6	41869 
+Pennsylvania	24.3	45814 
+North Carolina	24.2	41067 
+Maryland	23.9	58347 
+South Dakota	23.8	42525 
+Alaska	23.7	55935 
+Iowa	23.5	45086 
+Maine	23.4	42006 
+Wisconsin	23.2	47004 
+Nebraska	23.2	46613 
+Kansas	23.2	43802 
+Virginia	23.1	54301 
+Illinois	23	47978 
+Florida	22.9	42079 
+Minnesota	22.6	56084 
+District of Columbia	22.5	45900 
+Washington	22.2	50885 
+California	22.2	51647 
+New York	22.1	46242 
+New Jersey	21.9	59989 
+New Hampshire	21.6	58223 
+New Mexico	21.5	39029 
+Oregon	21.2	43570 
+Arizona	21.2	44748 
+Nevada	21.1	48314 
+Delaware	21.1	50970 
+Wyoming	20.8	45598 
+Idaho	20.8	44994 
+Utah	20.4	53226 
+Hawaii	20.1	57572 
+Montana	19.7	36200 
+Connecticut	19.7	57369 
+Rhode Island	19	48823 
+Vermont	18.7	48508 
+Massachusetts	18.4	54617 
+Colorado	16.8	52011 
