@@ -24,7 +24,8 @@ head -n6 donations.txt
 - Romney's campaign donations by states:
 ![romney.png](https://github.com/shngli/Data-Mining-and-Manipulation-Python/blob/master/2012%20Presidential%20Campaign%20Finance/romney.png)
 
-3) Compare Obama's and Romney's monthly campaign donations between March 2011 and December 2012. 
+3) Compare Obama's and Romney's monthly campaign donations between March 2011 and December 2012. **Output:**
+![obamaRomney.png](https://github.com/shngli/Data-Mining-Python/blob/master/2012%20Presidential%20Campaign%20Finance/obamaRomney.png)
 
 4) Compare Obama's and Romney's cumulative campaign donations between March 2011 and December 2012 
 
