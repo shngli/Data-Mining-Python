@@ -20,4 +20,4 @@ Obesity rate vs Per capita beer consumption
 ![scatterplot beer capita.png](https://github.com/shngli/Data-Mining-Python/blob/master/US%20obesity%20statistics/scatterplot%20beer%20capita.png)
 
 Obesity rate vs Per capita wine consumption
-!scatterplot wine capita.png](https://github.com/shngli/Data-Mining-Python/blob/master/US%20obesity%20statistics/scatterplot%20wine%20capita.png)
+![scatterplot wine capita.png](https://github.com/shngli/Data-Mining-Python/blob/master/US%20obesity%20statistics/scatterplot%20wine%20capita.png)
