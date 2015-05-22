@@ -1,0 +1,813 @@
+Disease distribution by Day of Week:
+DOW	Disease	Disease counts
+---------------------------------
+Sunday	African Swine Fever	9
+Sunday	Algae	3
+Sunday	Amoeba	1
+Sunday	Animal Die-off	9
+Sunday	Anthrax	23
+Sunday	Antibiotic resistance	3
+Sunday	Avian Influenza	11
+Sunday	BSE	5
+Sunday	Bluetongue	2
+Sunday	Brucellosis	2
+Sunday	Chagas	2
+Sunday	Chicken Pox	2
+Sunday	Chikungunya	4
+Sunday	Cholera	58
+Sunday	Chronic Wasting Disease	1
+Sunday	Conjunctivitis	1
+Sunday	Coronavirus	20
+Sunday	Dengue	146
+Sunday	Diarrhea	13
+Sunday	Dysentery	2
+Sunday	E. coli	17
+Sunday	Eastern Equine Encephalitis	8
+Sunday	Ebola	38
+Sunday	Encephalitis	3
+Sunday	Environmental	3
+Sunday	Epizootic Hemorrhagic Disease	19
+Sunday	Equine Infectious Anemia	1
+Sunday	Fever	2
+Sunday	Food-related toxin	1
+Sunday	Foodborne Illness	9
+Sunday	Foot and Mouth	5
+Sunday	Fungal Meningitis	2
+Sunday	Gastroenteritis	22
+Sunday	Gonorrhea	1
+Sunday	HFM-Enterovirus71	1
+Sunday	Hand, Foot and Mouth Disease	2
+Sunday	Hantavirus	13
+Sunday	Hemorrhagic Fever	1
+Sunday	Hepatitis	2
+Sunday	Hepatitis A	5
+Sunday	Hepatitis B	1
+Sunday	Hepatitis C	1
+Sunday	Influenza	6
+Sunday	Lassa Fever	1
+Sunday	Legionnaires'	13
+Sunday	Leishmaniasis	3
+Sunday	Listeriosis	6
+Sunday	Lumpy Skin Disease	5
+Sunday	Lyme Disease	1
+Sunday	MRSA	1
+Sunday	Malaria	10
+Sunday	Marburg Fever	4
+Sunday	Measles	27
+Sunday	Melioidosis	2
+Sunday	Meningitis	107
+Sunday	Monkeypox	1
+Sunday	Mumps	19
+Sunday	Mycobacteria, non-TB	4
+Sunday	Newcastle Disease	2
+Sunday	Norovirus	6
+Sunday	Not Yet Classified	47
+Sunday	Onchocerciasis	1
+Sunday	Other Animal Disease	7
+Sunday	Other Human Disease	3
+Sunday	Other Plant Disease	1
+Sunday	Paralytic Shellfish Poisoning	1
+Sunday	Parvovirus	1
+Sunday	Peste des petits ruminants	7
+Sunday	Pests	2
+Sunday	Plague	6
+Sunday	Pneumonia	2
+Sunday	Poisoning	6
+Sunday	Polio	8
+Sunday	Protozoa, miscellaneous	3
+Sunday	Rabies	18
+Sunday	Respiratory Illness	2
+Sunday	Rift Valley Fever	1
+Sunday	Rocky Mountain Spotted Fever	2
+Sunday	SARS	3
+Sunday	Salmonella	40
+Sunday	Schmallenberg	1
+Sunday	Scrub Typhus	2
+Sunday	Swine Flu H1N1	32
+Sunday	Swine Flu H3N2	13
+Sunday	Syphilis	2
+Sunday	Tetanus	1
+Sunday	Tick-borne Encephalitis	1
+Sunday	Tick-borne disease	2
+Sunday	Trichinosis	3
+Sunday	Trypanosomiasis	1
+Sunday	Tuberculosis	8
+Sunday	Typhoid	1
+Sunday	Undiagnosed	4
+Sunday	Vaccine Complication	1
+Sunday	Valley Fever	2
+Sunday	Vibrio parahaemolyticus	2
+Sunday	Waterborne Illness	38
+Sunday	West Nile Virus	37
+Sunday	Whooping Cough	9
+Monday	African Swine Fever	11
+Monday	Algae	7
+Monday	Animal Die-off	7
+Monday	Anthrax	66
+Monday	Antibiotic resistance	4
+Monday	Avian Influenza	19
+Monday	Babesiosis	3
+Monday	Bacterial Meningitis	3
+Monday	Blastomycosis	1
+Monday	Blue Ear	1
+Monday	Bluetongue	1
+Monday	Botulism	6
+Monday	Bovine TB	3
+Monday	Bronchitis/Bronchiolitis	2
+Monday	Brucellosis	4
+Monday	C. difficile	6
+Monday	Canine distemper	2
+Monday	Chagas	1
+Monday	Chicken Pox	13
+Monday	Chikungunya	4
+Monday	Cholera	77
+Monday	Chronic/Non-Infectious Disease	1
+Monday	Cold	1
+Monday	Conjunctivitis	3
+Monday	Coronavirus	22
+Monday	Crimean-Congo Hemorrhagic Fever	1
+Monday	Cryptosporidium	1
+Monday	Dengue	343
+Monday	Diarrhea	12
+Monday	Diphtheria	1
+Monday	Dysentery	8
+Monday	E. coli	46
+Monday	Eastern Equine Encephalitis	12
+Monday	Ebola	37
+Monday	Encephalitis	2
+Monday	Environmental	5
+Monday	Epizootic Hemorrhagic Disease	20
+Monday	Equine Infectious Anemia	8
+Monday	Equine Influenza	1
+Monday	Fever	5
+Monday	Food-related toxin	2
+Monday	Foodborne Illness	15
+Monday	Foot and Mouth	2
+Monday	Fungal Meningitis	1
+Monday	Gastroenteritis	32
+Monday	HFM-CoxsackieA	2
+Monday	HFM-Enterovirus71	1
+Monday	HIV/AIDS	2
+Monday	Hand, Foot and Mouth Disease	8
+Monday	Hantavirus	18
+Monday	Hemorrhagic Fever	3
+Monday	Hepatitis	2
+Monday	Hepatitis A	7
+Monday	Hepatitis B	2
+Monday	Hepatitis C	2
+Monday	Influenza	28
+Monday	Japanese Encephalitis	7
+Monday	Lassa Fever	1
+Monday	Legionnaires'	19
+Monday	Leishmaniasis	1
+Monday	Leptospirosis	1
+Monday	Lice	1
+Monday	Listeriosis	32
+Monday	Lumpy Skin Disease	7
+Monday	Lyme Disease	6
+Monday	Malaria	8
+Monday	Marburg Fever	16
+Monday	Measles	7
+Monday	Meningitis	124
+Monday	Monkeypox	2
+Monday	Mumps	22
+Monday	Newcastle Disease	1
+Monday	Norovirus	14
+Monday	Not Yet Classified	40
+Monday	Other Animal Disease	11
+Monday	Other Human Disease	4
+Monday	Other Plant Disease	11
+Monday	P. aeruginosa	2
+Monday	Parvovirus	3
+Monday	Peste des petits ruminants	10
+Monday	Pests	5
+Monday	Plague	19
+Monday	Pneumonia	4
+Monday	Poisoning	9
+Monday	Polio	1
+Monday	Rabies	27
+Monday	Respiratory Illness	5
+Monday	Rickettsia	2
+Monday	Rocky Mountain Spotted Fever	1
+Monday	SARS	11
+Monday	Salmonella	68
+Monday	Scabies	3
+Monday	Schmallenberg	21
+Monday	Scrub Typhus	2
+Monday	Sepsis	1
+Monday	Strep	2
+Monday	Swine Flu H1N1	53
+Monday	Swine Flu H3N2	15
+Monday	Syphilis	5
+Monday	Tick-borne Encephalitis	1
+Monday	Trichinosis	1
+Monday	Trypanosomiasis	1
+Monday	Tuberculosis	13
+Monday	Tularemia	1
+Monday	Typhoid	8
+Monday	Undiagnosed	2
+Monday	Vaccine Complication	2
+Monday	Valley Fever	1
+Monday	Vesicular Stomatitis	5
+Monday	Vibrio parahaemolyticus	1
+Monday	Vibrio vulnificus	1
+Monday	Waterborne Illness	70
+Monday	West Nile Virus	100
+Monday	Whooping Cough	34
+Monday	Yellow Fever	3
+Tuesday	African Swine Fever	27
+Tuesday	Algae	4
+Tuesday	Amebiasis	1
+Tuesday	Amoeba	3
+Tuesday	Animal Die-off	9
+Tuesday	Anthrax	79
+Tuesday	Antibiotic resistance	2
+Tuesday	Aspergillosis	1
+Tuesday	Avian Influenza	54
+Tuesday	Babesiosis	1
+Tuesday	Bacterial Meningitis	3
+Tuesday	Blastomycosis	2
+Tuesday	Blue Ear	1
+Tuesday	Bluetongue	1
+Tuesday	Botulism	4
+Tuesday	Bovine Pleuropneumonia	1
+Tuesday	Bovine TB	2
+Tuesday	Bronchitis/Bronchiolitis	2
+Tuesday	Brucellosis	2
+Tuesday	C. difficile	2
+Tuesday	Campylobacter	2
+Tuesday	Canine Influenza	1
+Tuesday	Canine distemper	1
+Tuesday	Chagas	2
+Tuesday	Chicken Pox	4
+Tuesday	Chikungunya	8
+Tuesday	Cholera	109
+Tuesday	Chronic Wasting Disease	3
+Tuesday	Classical Swine Fever	4
+Tuesday	Conjunctivitis	2
+Tuesday	Coronavirus	11
+Tuesday	Crimean-Congo Hemorrhagic Fever	1
+Tuesday	Cryptosporidium	1
+Tuesday	Dengue	280
+Tuesday	Diarrhea	15
+Tuesday	Dysentery	5
+Tuesday	E. coli	52
+Tuesday	Eastern Equine Encephalitis	16
+Tuesday	Ebola	57
+Tuesday	Echinococcosis	2
+Tuesday	Encephalitis	6
+Tuesday	Enterococcus	1
+Tuesday	Enterovirus	3
+Tuesday	Environmental	15
+Tuesday	Epizootic Hemorrhagic Disease	21
+Tuesday	Equine Infectious Anemia	8
+Tuesday	Fever	3
+Tuesday	Food-related toxin	6
+Tuesday	Foodborne Illness	11
+Tuesday	Foot and Mouth	5
+Tuesday	Fungal Meningitis	4
+Tuesday	Gastroenteritis	19
+Tuesday	Gonorrhea	2
+Tuesday	Guinea Worm	4
+Tuesday	HFM-CoxsackieA	3
+Tuesday	HFM-Enterovirus71	5
+Tuesday	HIV/AIDS	5
+Tuesday	Hand, Foot and Mouth Disease	11
+Tuesday	Hantavirus	14
+Tuesday	Hemorrhagic Fever	1
+Tuesday	Hepatitis	6
+Tuesday	Hepatitis A	7
+Tuesday	Hepatitis C	3
+Tuesday	Herpes	1
+Tuesday	Hospital-Related Infection	2
+Tuesday	Human Bocavirus	3
+Tuesday	Influenza	23
+Tuesday	Legionnaires'	17
+Tuesday	Leishmaniasis	1
+Tuesday	Leprosy	2
+Tuesday	Leptospirosis	2
+Tuesday	Lice	1
+Tuesday	Listeriosis	60
+Tuesday	Lumpy Skin Disease	1
+Tuesday	Lyme Disease	1
+Tuesday	MRSA	5
+Tuesday	Malaria	18
+Tuesday	Marburg Fever	2
+Tuesday	Measles	13
+Tuesday	Melioidosis	3
+Tuesday	Meningitis	204
+Tuesday	Meningitis - Neisseria	2
+Tuesday	Mumps	22
+Tuesday	Myiasis	1
+Tuesday	Newcastle Disease	8
+Tuesday	Nipah/Hendra Virus	1
+Tuesday	Norovirus	19
+Tuesday	Not Yet Classified	50
+Tuesday	Other Animal Disease	11
+Tuesday	Other Human Disease	2
+Tuesday	Other Plant Disease	9
+Tuesday	Parvovirus	2
+Tuesday	Peste des petits ruminants	2
+Tuesday	Pests	8
+Tuesday	Plague	23
+Tuesday	Pneumonia	3
+Tuesday	Poisoning	29
+Tuesday	Polio	10
+Tuesday	Psittacosis	1
+Tuesday	Rabies	40
+Tuesday	Respiratory Illness	7
+Tuesday	Rift Valley Fever	1
+Tuesday	Rocky Mountain Spotted Fever	2
+Tuesday	Rubella	2
+Tuesday	SARS	6
+Tuesday	Salmonella	91
+Tuesday	Scabies	5
+Tuesday	Schmallenberg	10
+Tuesday	Scrub Typhus	6
+Tuesday	Sexually Transmitted Infection	1
+Tuesday	Sheep/Goat Pox	3
+Tuesday	Strep	2
+Tuesday	Swine Flu H1N1	54
+Tuesday	Swine Flu H3N2	13
+Tuesday	Syphilis	5
+Tuesday	Trichinosis	2
+Tuesday	Trypanosomiasis	1
+Tuesday	Tuberculosis	5
+Tuesday	Tularemia	2
+Tuesday	Typhoid	4
+Tuesday	Typhus	1
+Tuesday	Undiagnosed	11
+Tuesday	Valley Fever	1
+Tuesday	Viral Meningitis	3
+Tuesday	Waterborne Illness	82
+Tuesday	West Nile Virus	146
+Tuesday	White nose syndrome	1
+Tuesday	Whooping Cough	44
+Tuesday	Yellow Fever	2
+Wednesday	African Swine Fever	33
+Wednesday	Algae	10
+Wednesday	Amoeba	3
+Wednesday	Animal Die-off	12
+Wednesday	Anthrax	59
+Wednesday	Antibiotic resistance	1
+Wednesday	Arenavirus	1
+Wednesday	Avian Influenza	48
+Wednesday	Babesiosis	3
+Wednesday	Botulism	10
+Wednesday	Bovine TB	1
+Wednesday	Brucellosis	2
+Wednesday	C. difficile	1
+Wednesday	Campylobacter	1
+Wednesday	Canine distemper	2
+Wednesday	Chagas	5
+Wednesday	Chicken Pox	3
+Wednesday	Chikungunya	7
+Wednesday	Cholera	99
+Wednesday	Chronic Wasting Disease	4
+Wednesday	Classical Swine Fever	1
+Wednesday	Conjunctivitis	3
+Wednesday	Coronavirus	23
+Wednesday	Dengue	229
+Wednesday	Diarrhea	11
+Wednesday	E. coli	41
+Wednesday	Eastern Equine Encephalitis	21
+Wednesday	Ebola	35
+Wednesday	Echinococcosis	1
+Wednesday	Encephalitis	3
+Wednesday	Environmental	23
+Wednesday	Epizootic Hemorrhagic Disease	18
+Wednesday	Equine Infectious Anemia	5
+Wednesday	Feline panleukopenia virus	1
+Wednesday	Fever	4
+Wednesday	Filariasis	1
+Wednesday	Food-related toxin	2
+Wednesday	Foodborne Illness	9
+Wednesday	Foot and Mouth	4
+Wednesday	Fungal Meningitis	2
+Wednesday	Gastroenteritis	21
+Wednesday	HFM-CoxsackieA	1
+Wednesday	HFM-Enterovirus71	1
+Wednesday	HIV/AIDS	17
+Wednesday	Hand, Foot and Mouth Disease	11
+Wednesday	Hantavirus	18
+Wednesday	Hemorrhagic Fever	1
+Wednesday	Hepatitis	5
+Wednesday	Hepatitis A	7
+Wednesday	Hepatitis C	3
+Wednesday	Herpes	1
+Wednesday	Histoplasmosis	1
+Wednesday	Influenza	31
+Wednesday	Japanese Encephalitis	1
+Wednesday	Lassa Fever	1
+Wednesday	Legionnaires'	9
+Wednesday	Leptospirosis	3
+Wednesday	Lice	2
+Wednesday	Listeriosis	52
+Wednesday	Lumpy Skin Disease	5
+Wednesday	MRSA	5
+Wednesday	Malaria	12
+Wednesday	Marburg Fever	2
+Wednesday	Measles	10
+Wednesday	Meningitis	208
+Wednesday	Meningitis - Neisseria	3
+Wednesday	Mumps	8
+Wednesday	Mycobacteria, non-TB	1
+Wednesday	Myiasis	1
+Wednesday	Newcastle Disease	3
+Wednesday	Norovirus	14
+Wednesday	Not Yet Classified	33
+Wednesday	Other Animal Disease	9
+Wednesday	Other Human Disease	6
+Wednesday	Other Plant Disease	2
+Wednesday	Otitis media	1
+Wednesday	P. aeruginosa	1
+Wednesday	Parvovirus	3
+Wednesday	Peste des petits ruminants	3
+Wednesday	Pests	2
+Wednesday	Plague	8
+Wednesday	Pneumonia	3
+Wednesday	Poisoning	18
+Wednesday	Polio	22
+Wednesday	Psittacosis	2
+Wednesday	Rabies	36
+Wednesday	Rash	2
+Wednesday	Respiratory Illness	10
+Wednesday	Rift Valley Fever	2
+Wednesday	Ringworm	1
+Wednesday	Rotavirus	1
+Wednesday	Rubella	2
+Wednesday	SARS	4
+Wednesday	Salmonella	75
+Wednesday	Scabies	3
+Wednesday	Scarlet Fever	1
+Wednesday	Schistosomiasis	1
+Wednesday	Schmallenberg	8
+Wednesday	Scrub Typhus	2
+Wednesday	Sexually Transmitted Infection	1
+Wednesday	Sheep/Goat Pox	4
+Wednesday	Shigellosis	3
+Wednesday	Swine Flu H1N1	56
+Wednesday	Swine Flu H3N2	12
+Wednesday	Syphilis	11
+Wednesday	Tick-borne disease	1
+Wednesday	Tuberculosis	11
+Wednesday	Typhoid	4
+Wednesday	Typhus	2
+Wednesday	Undiagnosed	6
+Wednesday	Valley Fever	2
+Wednesday	Vibrio parahaemolyticus	1
+Wednesday	Viral Meningitis	4
+Wednesday	Waterborne Illness	85
+Wednesday	West Nile Virus	241
+Wednesday	Whooping Cough	41
+Wednesday	Yellow Fever	3
+Thursday	African Swine Fever	18
+Thursday	Algae	5
+Thursday	Amoeba	1
+Thursday	Animal Die-off	5
+Thursday	Anthrax	67
+Thursday	Antibiotic resistance	1
+Thursday	Arenavirus	1
+Thursday	Aspergillosis	2
+Thursday	Avian Influenza	23
+Thursday	Bacterial Meningitis	2
+Thursday	Blastomycosis	1
+Thursday	Bluetongue	6
+Thursday	Botulism	5
+Thursday	Bovine Pleuropneumonia	3
+Thursday	Bovine TB	1
+Thursday	Brucellosis	1
+Thursday	C. difficile	2
+Thursday	CJD	6
+Thursday	Campylobacter	2
+Thursday	Canine distemper	2
+Thursday	Chagas	1
+Thursday	Chicken Pox	11
+Thursday	Chikungunya	8
+Thursday	Cholera	106
+Thursday	Chronic Wasting Disease	7
+Thursday	Classical Swine Fever	4
+Thursday	Conjunctivitis	4
+Thursday	Coronavirus	19
+Thursday	Cryptosporidium	2
+Thursday	Dengue	214
+Thursday	Diarrhea	10
+Thursday	Diphtheria	1
+Thursday	Dysentery	5
+Thursday	E. coli	13
+Thursday	Eastern Equine Encephalitis	19
+Thursday	Ebola	43
+Thursday	Encephalitis	3
+Thursday	Environmental	11
+Thursday	Epizootic Hemorrhagic Disease	41
+Thursday	Equine Herpes Virus	1
+Thursday	Equine Infectious Anemia	3
+Thursday	Equine Influenza	1
+Thursday	Fever	17
+Thursday	Food-related toxin	7
+Thursday	Foodborne Illness	13
+Thursday	Foot and Mouth	11
+Thursday	Fungal Meningitis	6
+Thursday	Gastroenteritis	33
+Thursday	Gonorrhea	2
+Thursday	Guinea Worm	4
+Thursday	HFM-CoxsackieA	1
+Thursday	HIV/AIDS	8
+Thursday	Hand, Foot and Mouth Disease	12
+Thursday	Hantavirus	20
+Thursday	Hemorrhagic Fever	6
+Thursday	Hepatitis	2
+Thursday	Hepatitis A	3
+Thursday	Hepatitis C	4
+Thursday	Hepatitis E	1
+Thursday	Histoplasmosis	1
+Thursday	Hospital-Related Infection	2
+Thursday	Influenza	24
+Thursday	Japanese Encephalitis	3
+Thursday	Legionnaires'	19
+Thursday	Leishmaniasis	3
+Thursday	Leprosy	3
+Thursday	Leptospirosis	1
+Thursday	Listeriosis	6
+Thursday	Lumpy Skin Disease	2
+Thursday	Lyme Disease	1
+Thursday	MRSA	5
+Thursday	Malaria	9
+Thursday	Measles	18
+Thursday	Meningitis	176
+Thursday	Meningitis - Neisseria	4
+Thursday	Mumps	7
+Thursday	Mycobacteria, non-TB	1
+Thursday	Newcastle Disease	4
+Thursday	Nipah/Hendra Virus	1
+Thursday	Norovirus	21
+Thursday	Not Yet Classified	108
+Thursday	Other Animal Disease	12
+Thursday	Other Human Disease	2
+Thursday	Other Plant Disease	16
+Thursday	Peste des petits ruminants	2
+Thursday	Pests	10
+Thursday	Plague	6
+Thursday	Pneumonia	7
+Thursday	Poisoning	12
+Thursday	Polio	12
+Thursday	Rabies	37
+Thursday	Rash	1
+Thursday	Respiratory Illness	3
+Thursday	Rift Valley Fever	3
+Thursday	Ringworm	1
+Thursday	Rocky Mountain Spotted Fever	3
+Thursday	SARS	1
+Thursday	Salmonella	68
+Thursday	Scabies	5
+Thursday	Schmallenberg	3
+Thursday	Scrub Typhus	2
+Thursday	Sexually Transmitted Infection	2
+Thursday	Shigellosis	4
+Thursday	Shingles	1
+Thursday	Staph	2
+Thursday	Strep	2
+Thursday	Swine Flu H1N1	59
+Thursday	Swine Flu H3N2	36
+Thursday	Syphilis	7
+Thursday	Tick-borne Encephalitis	1
+Thursday	Toxoplasmosis	1
+Thursday	Trichinosis	3
+Thursday	Tuberculosis	11
+Thursday	Tularemia	4
+Thursday	Typhoid	5
+Thursday	Typhus	2
+Thursday	Undiagnosed	10
+Thursday	Valley Fever	1
+Thursday	Vesicular Stomatitis	1
+Thursday	Vibrio vulnificus	1
+Thursday	Viral Meningitis	2
+Thursday	Waterborne Illness	91
+Thursday	West Nile Virus	268
+Thursday	Whooping Cough	47
+Thursday	Yellow Fever	3
+Friday	African Swine Fever	23
+Friday	Algae	5
+Friday	Amoeba	1
+Friday	Animal Die-off	5
+Friday	Anthrax	41
+Friday	Antibiotic resistance	1
+Friday	Aspergillosis	1
+Friday	Avian Influenza	43
+Friday	BSE	1
+Friday	Babesiosis	2
+Friday	Bacterial Meningitis	3
+Friday	Bluetongue	5
+Friday	Botulism	4
+Friday	Bovine TB	2
+Friday	Brucellosis	1
+Friday	CJD	1
+Friday	Campylobacter	2
+Friday	Canine Influenza	1
+Friday	Canine distemper	4
+Friday	Chicken Pox	10
+Friday	Chikungunya	2
+Friday	Cholera	48
+Friday	Chronic/Non-Infectious Disease	6
+Friday	Classical Swine Fever	1
+Friday	Conjunctivitis	1
+Friday	Coronavirus	16
+Friday	Crimean-Congo Hemorrhagic Fever	7
+Friday	Dengue	207
+Friday	Diarrhea	13
+Friday	Dysentery	8
+Friday	E. coli	39
+Friday	Eastern Equine Encephalitis	14
+Friday	Ebola	31
+Friday	Encephalitis	6
+Friday	Enterococcus	1
+Friday	Environmental	12
+Friday	Epizootic Hemorrhagic Disease	18
+Friday	Equine Herpes Virus	3
+Friday	Equine Infectious Anemia	4
+Friday	Fever	1
+Friday	Food-related toxin	2
+Friday	Foodborne Illness	13
+Friday	Foot and Mouth	32
+Friday	Fungal Meningitis	7
+Friday	Gastroenteritis	27
+Friday	Gonorrhea	1
+Friday	HFM-CoxsackieA	1
+Friday	HIV/AIDS	10
+Friday	Hand, Foot and Mouth Disease	7
+Friday	Hantavirus	24
+Friday	Hemorrhagic Fever	4
+Friday	Hepatitis	1
+Friday	Hepatitis A	3
+Friday	Hepatitis B	1
+Friday	Hepatitis C	5
+Friday	Hepatitis E	4
+Friday	Herpes	1
+Friday	Hospital-Related Infection	1
+Friday	Influenza	76
+Friday	Japanese Encephalitis	4
+Friday	La Crosse Encephalitis	1
+Friday	Legionnaires'	16
+Friday	Leishmaniasis	1
+Friday	Leprosy	2
+Friday	Leptospirosis	1
+Friday	Lice	1
+Friday	Listeriosis	19
+Friday	Lyme Disease	2
+Friday	MRSA	4
+Friday	Malaria	11
+Friday	Marburg Fever	7
+Friday	Measles	30
+Friday	Meningitis	201
+Friday	Meningitis - Neisseria	1
+Friday	Mumps	14
+Friday	Mycobacteria, non-TB	6
+Friday	Newcastle Disease	8
+Friday	Nipah/Hendra Virus	2
+Friday	Norovirus	18
+Friday	Not Yet Classified	91
+Friday	Other Animal Disease	21
+Friday	Other Human Disease	2
+Friday	Other Plant Disease	9
+Friday	Paralytic Shellfish Poisoning	1
+Friday	Parvovirus	2
+Friday	Peste des petits ruminants	3
+Friday	Pests	14
+Friday	Plague	9
+Friday	Pneumonia	1
+Friday	Poisoning	3
+Friday	Polio	14
+Friday	Psittacosis	2
+Friday	Rabies	39
+Friday	Rash	1
+Friday	Respiratory Illness	7
+Friday	Rift Valley Fever	1
+Friday	Rotavirus	2
+Friday	Salmonella	82
+Friday	Scabies	5
+Friday	Schmallenberg	9
+Friday	Scrub Typhus	1
+Friday	Staph	1
+Friday	Strep	2
+Friday	Swine Flu H1N1	35
+Friday	Swine Flu H3N2	40
+Friday	Syphilis	5
+Friday	Tick-borne Encephalitis	2
+Friday	Tick-borne disease	3
+Friday	Trichinosis	3
+Friday	Tuberculosis	8
+Friday	Tularemia	4
+Friday	Typhoid	8
+Friday	Undiagnosed	12
+Friday	Valley Fever	2
+Friday	Vesicular Stomatitis	6
+Friday	Vibrio parahaemolyticus	1
+Friday	Vibrio, noncholera	1
+Friday	Waterborne Illness	59
+Friday	West Nile Virus	193
+Friday	Whooping Cough	38
+Friday	Yellow Fever	4
+Saturday	African Swine Fever	6
+Saturday	Algae	2
+Saturday	Amoeba	2
+Saturday	Animal Die-off	2
+Saturday	Anthrax	19
+Saturday	Antibiotic resistance	4
+Saturday	Aspergillosis	2
+Saturday	Avian Influenza	20
+Saturday	Babesiosis	4
+Saturday	Bartonella	1
+Saturday	Bluetongue	2
+Saturday	Botulism	2
+Saturday	Bovine Pleuropneumonia	2
+Saturday	Bronchitis/Bronchiolitis	2
+Saturday	Brucellosis	1
+Saturday	Canine Influenza	1
+Saturday	Canine distemper	3
+Saturday	Chagas	2
+Saturday	Chicken Pox	4
+Saturday	Chikungunya	3
+Saturday	Cholera	55
+Saturday	Chronic/Non-Infectious Disease	1
+Saturday	Conjunctivitis	2
+Saturday	Coronavirus	13
+Saturday	Crimean-Congo Hemorrhagic Fever	6
+Saturday	Cryptosporidium	4
+Saturday	Dengue	121
+Saturday	Diarrhea	8
+Saturday	Diphtheria	1
+Saturday	Dysentery	1
+Saturday	E. coli	34
+Saturday	Eastern Equine Encephalitis	6
+Saturday	Ebola	30
+Saturday	Environmental	5
+Saturday	Epizootic Hemorrhagic Disease	17
+Saturday	Equine Infectious Anemia	1
+Saturday	Fever	1
+Saturday	Food-related toxin	2
+Saturday	Foodborne Illness	15
+Saturday	Foot and Mouth	7
+Saturday	Free Living Amoeba	1
+Saturday	Gastroenteritis	30
+Saturday	HFM-Enterovirus71	1
+Saturday	HIV/AIDS	4
+Saturday	Hand, Foot and Mouth Disease	9
+Saturday	Hantavirus	20
+Saturday	Hemorrhagic Fever	1
+Saturday	Hepatitis A	5
+Saturday	Hepatitis C	1
+Saturday	Hepatitis E	3
+Saturday	Influenza	50
+Saturday	Japanese Encephalitis	2
+Saturday	Legionnaires'	9
+Saturday	Leprosy	2
+Saturday	Listeriosis	8
+Saturday	Lyme Disease	1
+Saturday	MRSA	2
+Saturday	Malaria	13
+Saturday	Marburg Fever	2
+Saturday	Measles	20
+Saturday	Meningitis	146
+Saturday	Meningitis - Neisseria	1
+Saturday	Monkeypox	1
+Saturday	Mumps	5
+Saturday	Norovirus	10
+Saturday	Not Yet Classified	39
+Saturday	Other Animal Disease	6
+Saturday	Other Plant Disease	1
+Saturday	Paralytic Shellfish Poisoning	1
+Saturday	Pests	2
+Saturday	Plague	2
+Saturday	Pneumonia	3
+Saturday	Poisoning	4
+Saturday	Polio	6
+Saturday	Rabies	18
+Saturday	Respiratory Illness	1
+Saturday	Rift Valley Fever	2
+Saturday	Ringworm	2
+Saturday	Ross River Virus	1
+Saturday	SARS	3
+Saturday	Salmonella	33
+Saturday	Scabies	2
+Saturday	Schmallenberg	1
+Saturday	Scrub Typhus	1
+Saturday	Staph	1
+Saturday	Strep	2
+Saturday	Swine Flu H1N1	28
+Saturday	Swine Flu H3N2	9
+Saturday	Syphilis	4
+Saturday	Tick-borne disease	1
+Saturday	Trichinosis	3
+Saturday	Trypanosomiasis	2
+Saturday	Tuberculosis	6
+Saturday	Tularemia	2
+Saturday	Typhoid	5
+Saturday	Typhus	1
+Saturday	Undiagnosed	3
+Saturday	Vaccine Complication	2
+Saturday	Valley Fever	1
+Saturday	Vibrio parahaemolyticus	1
+Saturday	Waterborne Illness	34
+Saturday	West Nile Virus	69
+Saturday	Whooping Cough	28
+Saturday	Yellow Fever	1

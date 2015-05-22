@@ -1,0 +1,154 @@
+Disease outbreak counts in each country:
+Country	Outbreak counts
+-------------------------
+Afghanistan	5
+Albania	5
+Algeria	16
+Angola	28
+Argentina	131
+Armenia	7
+Australia	81
+Austria	5
+Azerbaijan	4
+Bahrain	2
+Bangladesh	3
+Barbados	1
+Belarus	2
+Belgium	15
+Benin	4
+Bhutan	11
+Bolivia	25
+Brazil	216
+Bulgaria	2
+Burkina Faso	1
+Burundi	1
+Cambodia	19
+Cameroon	3
+Canada	243
+Cape Verde	2
+Central African Republic	1
+Chad	5
+Chile	44
+China	335
+Colombia	45
+Costa Rica	21
+Cote d'Ivoire	5
+Croatia	5
+Cuba	44
+Czech Republic	7
+DR Congo	82
+Denmark	7
+Dominican Republic	72
+Ecuador	12
+Egypt	104
+El Salvador	52
+Estonia	5
+Ethiopia	4
+Fiji	3
+Finland	3
+France	57
+Gambia	5
+Germany	52
+Ghana	23
+Greece	28
+Guatemala	15
+Guinea	30
+Guinea-Bissau	3
+Guyana	1
+Haiti	20
+Honduras	68
+Hungary	6
+Iceland	3
+India	244
+Indonesia	35
+Iran	4
+Iraq	13
+Ireland	16
+Israel	23
+Italy	24
+Jamaica	11
+Japan	20
+Jordan	13
+Kazakhstan	10
+Kenya	38
+Kuwait	3
+Kyrgyzstan	6
+Laos	1
+Latvia	4
+Lebanon	2
+Liberia	1
+Libya	1
+Madagascar	8
+Malawi	6
+Malaysia	17
+Mali	7
+Malta	2
+Marshall Islands	1
+Mauritania	9
+Mauritius	1
+Mexico	253
+Moldova	2
+Mongolia	1
+Morocco	11
+Mozambique	1
+Myanmar	8
+Namibia	6
+Nepal	26
+Netherlands	20
+New Zealand	50
+Nicaragua	10
+Niger	4
+Nigeria	39
+Norway	7
+Oman	2
+Pakistan	104
+Palestinian Authority	8
+Panama	14
+Papua New Guinea	4
+Paraguay	41
+Peru	70
+Philippines	53
+Poland	5
+Portugal	20
+Qatar	13
+Republic of Congo	14
+Republic of Macedonia	3
+Romania	8
+Russia	229
+Samoa	2
+Sao Tome & Principe	2
+Saudi Arabia	40
+Serbia	12
+Sierra Leone	38
+Singapore	8
+Slovakia	2
+Somalia	5
+South Africa	21
+South Korea	6
+South Sudan	8
+Spain	54
+Sri Lanka	18
+Sudan	23
+Swaziland	4
+Sweden	4
+Switzerland	11
+Syria	4
+Tajikistan	1
+Tanzania	8
+Thailand	30
+The Bahamas	1
+Trinidad & Tobago	5
+Tunisia	13
+Turkey	2
+Uganda	62
+Ukraine	58
+United Arab Emirates	13
+United Kingdom	235
+United States	1221
+Uruguay	6
+Uzbekistan	2
+Venezuela	54
+Vietnam	71
+Yemen	10
+Zambia	15
+Zimbabwe	9

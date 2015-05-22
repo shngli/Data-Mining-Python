@@ -1,0 +1,154 @@
+Average rating and number of outbreaks by country:
+Country	Average rating	Outbreak counts
+----------------------------------------
+Afghanistan	3.0	5
+Albania	2.6	5
+Algeria	2.4375	16
+Angola	3.16071428571	28
+Argentina	2.931043257	131
+Armenia	3.35714285714	7
+Australia	2.67283950617	81
+Austria	2.8	5
+Azerbaijan	3.125	4
+Bahrain	2.0	2
+Bangladesh	3.0	3
+Barbados	3.0	1
+Belarus	1.0	2
+Belgium	2.8	15
+Benin	2.875	4
+Bhutan	3.0	11
+Bolivia	2.88	25
+Brazil	2.96355385869	216
+Bulgaria	2.5	2
+Burkina Faso	4.0	1
+Burundi	5.0	1
+Cambodia	2.68421052632	19
+Cameroon	3.16666666667	3
+Canada	2.60720164609	243
+Cape Verde	3.5	2
+Central African Republic	3.0	1
+Chad	3.2	5
+Chile	2.92045454545	44
+China	2.87248628011	335
+Colombia	3.01111111111	45
+Costa Rica	2.95238095238	21
+Cote d'Ivoire	3.0	5
+Croatia	3.0	5
+Cuba	3.04356060606	44
+Czech Republic	2.71428571429	7
+DR Congo	3.54200542005	82
+Denmark	3.14285714286	7
+Dominican Republic	3.08640873016	72
+Ecuador	3.0	12
+Egypt	2.78990384615	104
+El Salvador	3.06730769231	52
+Estonia	3.2	5
+Ethiopia	3.25	4
+Fiji	2.33333333333	3
+Finland	1.66666666667	3
+France	2.73684210526	57
+Gambia	3.2	5
+Germany	2.93502747253	52
+Ghana	3.0	23
+Greece	2.8125	28
+Guatemala	3.16666666667	15
+Guinea	3.77518518519	30
+Guinea-Bissau	3.66666666667	3
+Guyana	1.0	1
+Haiti	3.4375	20
+Honduras	2.94975490196	68
+Hungary	2.83333333333	6
+Iceland	3.0	3
+India	3.03316826047	244
+Indonesia	2.9268707483	35
+Iran	2.65909090909	4
+Iraq	3.76923076923	13
+Ireland	2.25	16
+Israel	2.76086956522	23
+Italy	3.07638888889	24
+Jamaica	2.90909090909	11
+Japan	2.5130952381	20
+Jordan	3.05128205128	13
+Kazakhstan	2.65	10
+Kenya	2.94298245614	38
+Kuwait	3.33333333333	3
+Kyrgyzstan	3.0	6
+Laos	3.0	1
+Latvia	2.625	4
+Lebanon	1.5	2
+Liberia	3.5	1
+Libya	3.0	1
+Madagascar	2.625	8
+Malawi	3.16666666667	6
+Malaysia	2.94117647059	17
+Mali	3.25	7
+Malta	3.5	2
+Marshall Islands	3.0	1
+Mauritania	3.16666666667	9
+Mauritius	3.0	1
+Mexico	2.80884779472	253
+Moldova	3.0	2
+Mongolia	3.0	1
+Morocco	2.72727272727	11
+Mozambique	3.0	1
+Myanmar	3.0	8
+Namibia	3.0	6
+Nepal	3.00961538462	26
+Netherlands	2.86	20
+New Zealand	2.64666666667	50
+Nicaragua	2.9	10
+Niger	3.625	4
+Nigeria	3.14957264957	39
+Norway	2.71428571429	7
+Oman	2.5	2
+Pakistan	3.11298076923	104
+Palestinian Authority	2.9375	8
+Panama	2.57142857143	14
+Papua New Guinea	2.75	4
+Paraguay	2.9918699187	41
+Peru	3.00714285714	70
+Philippines	2.85471698113	53
+Poland	2.6	5
+Portugal	3.07083333333	20
+Qatar	3.41666666667	13
+Republic of Congo	3.89285714286	14
+Republic of Macedonia	3.16666666667	3
+Romania	2.75	8
+Russia	2.71887686549	229
+Samoa	3.0	2
+Sao Tome & Principe	3.0	2
+Saudi Arabia	2.935	40
+Serbia	2.88888888889	12
+Sierra Leone	3.59356725146	38
+Singapore	2.25	8
+Slovakia	3.0	2
+Somalia	3.6	5
+South Africa	2.90476190476	21
+South Korea	2.83333333333	6
+South Sudan	3.125	8
+Spain	2.97685185185	54
+Sri Lanka	2.63888888889	18
+Sudan	3.15217391304	23
+Swaziland	3.0	4
+Sweden	3.0	4
+Switzerland	2.77272727273	11
+Syria	3.08333333333	4
+Tajikistan	3.0	1
+Tanzania	2.84375	8
+Thailand	2.93333333333	30
+The Bahamas	3.0	1
+Trinidad & Tobago	3.0	5
+Tunisia	2.89743589744	13
+Turkey	3.0	2
+Uganda	3.31499390079	62
+Ukraine	2.74425287356	58
+United Arab Emirates	2.76923076923	13
+United Kingdom	2.84375886525	235
+United States	2.58396280814	1221
+Uruguay	3.0	6
+Uzbekistan	2.0	2
+Venezuela	2.93518518519	54
+Vietnam	2.97808517773	71
+Yemen	2.9	10
+Zambia	3.06666666667	15
+Zimbabwe	2.89814814815	9

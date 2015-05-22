@@ -1,0 +1,13 @@
+Top 10 outbreak countries:
+Country	Total outbreak counts
+------------------------------
+United States	1221
+China	335
+Mexico	253
+India	244
+Canada	243
+United Kingdom	235
+Russia	229
+Brazil	216
+Argentina	131
+Egypt	104

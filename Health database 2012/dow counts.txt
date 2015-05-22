@@ -1,0 +1,10 @@
+Disease counts by Day of Week:
+DOW	Disease counts
+-----------------------
+Sunday	1013
+Monday	1745
+Tuesday	2055
+Wednesday	1949
+Thursday	2020
+Friday	1909
+Saturday	1092

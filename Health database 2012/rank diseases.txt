@@ -1,0 +1,180 @@
+Rank disease incidents:
+Disease	Outbreak counts	Number of countries	Total reports	Reports per outbreak
+--------------------------------------------------------------------------------------
+Dengue	728	46	1632	2.0
+Cholera	259	40	574	2.0
+Influenza	233	48	280	1.0
+West Nile Virus	197	23	1095	5.0
+Salmonella	161	23	465	2.0
+Swine Flu H1N1	155	18	325	2.0
+Meningitis	151	24	1213	8.0
+Not Yet Classified	144	31	425	2.0
+Whooping Cough	141	20	250	1.0
+Gastroenteritis	139	35	188	1.0
+Waterborne Illness	134	20	492	3.0
+Rabies	133	31	222	1.0
+E. coli	112	13	245	2.0
+Ebola	107	9	304	2.0
+Measles	101	26	126	1.0
+Avian Influenza	96	15	228	2.0
+Anthrax	95	23	361	3.0
+Norovirus	78	11	109	1.0
+Malaria	77	34	89	1.0
+Diarrhea	76	35	84	1.0
+Poisoning	73	28	89	1.0
+Foodborne Illness	70	26	88	1.0
+Legionnaires'	70	10	106	1.0
+Other Animal Disease	62	19	79	1.0
+Hantavirus	61	12	132	2.0
+Tuberculosis	58	26	64	1.0
+African Swine Fever	54	11	129	2.0
+Epizootic Hemorrhagic Disease	50	1	156	3.0
+Hand, Foot and Mouth Disease	50	12	74	1.0
+Eastern Equine Encephalitis	49	1	97	1.0
+Listeriosis	49	7	184	3.0
+Coronavirus	47	5	124	2.0
+Swine Flu H3N2	47	3	147	3.0
+Undiagnosed	47	22	52	1.0
+Polio	46	7	74	1.0
+Environmental	44	8	82	1.0
+Other Plant Disease	43	24	50	1.0
+Chicken Pox	41	9	53	1.0
+Animal Die-off	40	11	49	1.0
+Foot and Mouth	40	19	79	1.0
+Respiratory Illness	40	21	41	1.0
+Mumps	36	6	102	2.0
+Pests	34	11	44	1.0
+Hepatitis A	32	11	39	1.0
+Schmallenberg	32	14	57	1.0
+Algae	31	6	42	1.0
+Chikungunya	31	9	39	1.0
+Syphilis	31	9	39	1.0
+Typhoid	31	24	36	1.0
+HIV/AIDS	27	9	46	1.0
+Plague	27	6	73	2.0
+Scabies	25	9	26	1.0
+Botulism	24	3	31	1.0
+Dysentery	24	6	31	1.0
+Pneumonia	23	14	25	1.0
+Fever	22	8	35	1.0
+Peste des petits ruminants	22	7	39	1.0
+Food-related toxin	21	8	22	1.0
+Encephalitis	20	5	23	1.0
+Other Human Disease	19	13	19	1.0
+SARS	19	5	28	1.0
+Hepatitis C	17	6	19	1.0
+MRSA	17	4	22	1.0
+Equine Infectious Anemia	16	5	30	1.0
+Newcastle Disease	16	6	27	1.0
+Conjunctivitis	15	6	16	1.0
+Hepatitis	15	8	18	1.0
+Yellow Fever	15	7	20	1.0
+Parvovirus	14	5	14	1.0
+Trichinosis	14	2	15	1.0
+Hemorrhagic Fever	13	6	17	1.0
+Scrub Typhus	13	1	16	1.0
+Antibiotic resistance	12	6	16	1.0
+Bluetongue	12	4	18	1.0
+Brucellosis	12	7	14	1.0
+Canine distemper	12	3	15	1.0
+Crimean-Congo Hemorrhagic Fever	12	5	15	1.0
+Lyme Disease	12	3	12	1.0
+Chagas	11	5	15	1.0
+Meningitis - Neisseria	11	7	11	1.0
+Tularemia	11	3	13	1.0
+Bacterial Meningitis	10	3	11	1.0
+Chronic Wasting Disease	10	1	16	1.0
+Fungal Meningitis	10	1	22	2.0
+Marburg Fever	10	1	47	4.0
+Vesicular Stomatitis	10	1	15	1.0
+Amoeba	9	4	11	1.0
+Babesiosis	9	2	13	1.0
+C. difficile	9	4	11	1.0
+Chronic/Non-Infectious Disease	9	8	9	1.0
+Classical Swine Fever	9	5	12	1.0
+HFM-Enterovirus71	9	7	9	1.0
+Leptospirosis	9	6	9	1.0
+Valley Fever	9	1	10	1.0
+Bovine TB	8	6	9	1.0
+Cryptosporidium	8	2	8	1.0
+Guinea Worm	8	4	8	1.0
+HFM-CoxsackieA	8	1	8	1.0
+Leishmaniasis	8	4	9	1.0
+Lumpy Skin Disease	8	1	21	2.0
+Rift Valley Fever	8	2	10	1.0
+Rocky Mountain Spotted Fever	8	2	9	1.0
+Strep	8	4	10	1.0
+Hepatitis E	7	3	8	1.0
+Japanese Encephalitis	7	4	17	2.0
+Leprosy	7	3	9	1.0
+Shigellosis	7	2	7	1.0
+Tick-borne disease	7	3	7	1.0
+Bronchitis/Bronchiolitis	6	5	6	1.0
+Campylobacter	6	3	7	1.0
+Gonorrhea	6	2	6	1.0
+Vibrio parahaemolyticus	6	3	6	1.0
+Viral Meningitis	6	3	9	1.0
+Aspergillosis	5	2	6	1.0
+CJD	5	4	7	1.0
+Hospital-Related Infection	5	4	5	1.0
+Lice	5	2	5	1.0
+Melioidosis	5	3	5	1.0
+Ringworm	5	2	5	1.0
+Trypanosomiasis	5	5	5	1.0
+Typhus	5	1	6	1.0
+Vaccine Complication	5	4	5	1.0
+Blastomycosis	4	1	4	1.0
+Bovine Pleuropneumonia	4	1	6	1.0
+Mycobacteria, non-TB	4	1	12	3.0
+Nipah/Hendra Virus	4	1	4	1.0
+Psittacosis	4	1	5	1.0
+Rash	4	1	4	1.0
+Sheep/Goat Pox	4	3	7	1.0
+Staph	4	2	4	1.0
+Tick-borne Encephalitis	4	1	5	1.0
+BSE	3	3	6	2.0
+Canine Influenza	3	1	3	1.0
+Diphtheria	3	1	3	1.0
+Echinococcosis	3	3	3	1.0
+Equine Herpes Virus	3	1	5	1.0
+Hepatitis B	3	3	4	1.0
+Herpes	3	2	3	1.0
+Lassa Fever	3	1	3	1.0
+Monkeypox	3	2	4	1.0
+P. aeruginosa	3	3	3	1.0
+Paralytic Shellfish Poisoning	3	1	3	1.0
+Protozoa, miscellaneous	3	2	3	1.0
+Rubella	3	1	4	1.0
+Sexually Transmitted Infection	3	2	4	1.0
+Arenavirus	2	1	2	1.0
+Blue Ear	2	1	2	1.0
+Enterococcus	2	1	2	1.0
+Enterovirus	2	1	3	1.0
+Equine Influenza	2	2	2	1.0
+Histoplasmosis	2	1	2	1.0
+Myiasis	2	1	2	1.0
+Rickettsia	2	1	2	1.0
+Rotavirus	2	2	3	1.0
+Vibrio vulnificus	2	2	2	1.0
+Acinetobacter baumannii	1	1	1	1.0
+Amebiasis	1	1	1	1.0
+Avian Cholera	1	1	1	1.0
+Bartonella	1	1	1	1.0
+Cold	1	1	1	1.0
+Feline panleukopenia virus	1	1	1	1.0
+Filariasis	1	1	1	1.0
+Free Living Amoeba	1	1	1	1.0
+Human Bocavirus	1	1	3	3.0
+La Crosse Encephalitis	1	1	1	1.0
+Onchocerciasis	1	1	1	1.0
+Otitis media	1	1	1	1.0
+Ross River Virus	1	1	1	1.0
+Scarlet Fever	1	1	1	1.0
+Schistosomiasis	1	1	1	1.0
+Sepsis	1	1	1	1.0
+Shingles	1	1	1	1.0
+St. Louis Encephalitis	1	1	1	1.0
+Tetanus	1	1	1	1.0
+Toxoplasmosis	1	1	1	1.0
+Vibrio, noncholera	1	1	1	1.0
+White nose syndrome	1	1	1	1.0

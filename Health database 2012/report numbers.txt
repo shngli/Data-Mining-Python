@@ -1,0 +1,154 @@
+Average and max number reports per disease outbreak per country:
+Country	Total reports	Total outbreaks	Average reports per outbreak	Max report instances
+---------------------------------------------------------------------------------------------
+Afghanistan	5	5	1.0	1
+Albania	5	5	1.0	1
+Algeria	16	16	1.0	1
+Angola	36	28	1.28571428571	3
+Argentina	206	131	1.57251908397	6
+Armenia	9	7	1.28571428571	2
+Australia	92	81	1.13580246914	3
+Austria	6	5	1.2	2
+Azerbaijan	5	4	1.25	2
+Bahrain	2	2	1.0	1
+Bangladesh	3	3	1.0	1
+Barbados	1	1	1.0	1
+Belarus	2	2	1.0	1
+Belgium	17	15	1.13333333333	2
+Benin	5	4	1.25	2
+Bhutan	14	11	1.27272727273	2
+Bolivia	30	25	1.2	4
+Brazil	476	216	2.2037037037	11
+Bulgaria	2	2	1.0	1
+Burkina Faso	1	1	1.0	1
+Burundi	1	1	1.0	1
+Cambodia	21	19	1.10526315789	2
+Cameroon	4	3	1.33333333333	2
+Canada	396	243	1.62962962963	12
+Cape Verde	3	2	1.5	2
+Central African Republic	1	1	1.0	1
+Chad	5	5	1.0	1
+Chile	63	44	1.43181818182	6
+China	1005	335	3.0	58
+Colombia	63	45	1.4	12
+Costa Rica	27	21	1.28571428571	2
+Cote d'Ivoire	5	5	1.0	1
+Croatia	9	5	1.8	4
+Cuba	78	44	1.77272727273	13
+Czech Republic	8	7	1.14285714286	2
+DR Congo	202	82	2.46341463415	14
+Denmark	15	7	2.14285714286	5
+Dominican Republic	124	72	1.72222222222	8
+Ecuador	12	12	1.0	1
+Egypt	202	104	1.94230769231	12
+El Salvador	68	52	1.30769230769	3
+Estonia	5	5	1.0	1
+Ethiopia	10	4	2.5	7
+Fiji	3	3	1.0	1
+Finland	5	3	1.66666666667	3
+France	67	57	1.17543859649	3
+Gambia	7	5	1.4	2
+Germany	95	52	1.82692307692	10
+Ghana	24	23	1.04347826087	2
+Greece	51	28	1.82142857143	6
+Guatemala	20	15	1.33333333333	2
+Guinea	90	30	3.0	11
+Guinea-Bissau	4	3	1.33333333333	2
+Guyana	1	1	1.0	1
+Haiti	33	20	1.65	4
+Honduras	95	68	1.39705882353	4
+Hungary	7	6	1.16666666667	2
+Iceland	4	3	1.33333333333	2
+India	480	244	1.96721311475	16
+Indonesia	52	35	1.48571428571	7
+Iran	16	4	4.0	11
+Iraq	18	13	1.38461538462	5
+Ireland	18	16	1.125	2
+Israel	40	23	1.73913043478	7
+Italy	36	24	1.5	4
+Jamaica	12	11	1.09090909091	2
+Japan	32	20	1.6	7
+Jordan	16	13	1.23076923077	3
+Kazakhstan	11	10	1.1	2
+Kenya	46	38	1.21052631579	3
+Kuwait	3	3	1.0	1
+Kyrgyzstan	9	6	1.5	3
+Laos	1	1	1.0	1
+Latvia	6	4	1.5	2
+Lebanon	2	2	1.0	1
+Liberia	2	1	2.0	2
+Libya	1	1	1.0	1
+Madagascar	8	8	1.0	1
+Malawi	8	6	1.33333333333	3
+Malaysia	17	17	1.0	1
+Mali	10	7	1.42857142857	4
+Malta	2	2	1.0	1
+Marshall Islands	1	1	1.0	1
+Mauritania	12	9	1.33333333333	2
+Mauritius	1	1	1.0	1
+Mexico	652	253	2.57707509881	26
+Moldova	2	2	1.0	1
+Mongolia	2	1	2.0	2
+Morocco	13	11	1.18181818182	2
+Mozambique	1	1	1.0	1
+Myanmar	8	8	1.0	1
+Namibia	6	6	1.0	1
+Nepal	40	26	1.53846153846	4
+Netherlands	32	20	1.6	5
+New Zealand	56	50	1.12	3
+Nicaragua	14	10	1.4	3
+Niger	5	4	1.25	2
+Nigeria	55	39	1.41025641026	11
+Norway	9	7	1.28571428571	2
+Oman	2	2	1.0	1
+Pakistan	139	104	1.33653846154	4
+Palestinian Authority	11	8	1.375	2
+Panama	14	14	1.0	1
+Papua New Guinea	4	4	1.0	1
+Paraguay	55	41	1.34146341463	4
+Peru	82	70	1.17142857143	3
+Philippines	80	53	1.50943396226	8
+Poland	5	5	1.0	1
+Portugal	45	20	2.25	6
+Qatar	28	13	2.15384615385	4
+Republic of Congo	17	14	1.21428571429	2
+Republic of Macedonia	4	3	1.33333333333	2
+Romania	10	8	1.25	3
+Russia	375	229	1.63755458515	15
+Samoa	3	2	1.5	2
+Sao Tome & Principe	2	2	1.0	1
+Saudi Arabia	73	40	1.825	7
+Serbia	21	12	1.75	3
+Sierra Leone	88	38	2.31578947368	9
+Singapore	8	8	1.0	1
+Slovakia	2	2	1.0	1
+Somalia	5	5	1.0	1
+South Africa	26	21	1.2380952381	4
+South Korea	11	6	1.83333333333	6
+South Sudan	8	8	1.0	1
+Spain	72	54	1.33333333333	4
+Sri Lanka	19	18	1.05555555556	2
+Sudan	28	23	1.21739130435	3
+Swaziland	5	4	1.25	2
+Sweden	5	4	1.25	2
+Switzerland	30	11	2.72727272727	19
+Syria	6	4	1.5	3
+Tajikistan	1	1	1.0	1
+Tanzania	14	8	1.75	4
+Thailand	34	30	1.13333333333	3
+The Bahamas	1	1	1.0	1
+Trinidad & Tobago	5	5	1.0	1
+Tunisia	26	13	2.0	6
+Turkey	2	2	1.0	1
+Uganda	178	62	2.87096774194	17
+Ukraine	75	58	1.29310344828	6
+United Arab Emirates	13	13	1.0	1
+United Kingdom	330	235	1.40425531915	7
+United States	4642	1221	3.8018018018	103
+Uruguay	6	6	1.0	1
+Uzbekistan	2	2	1.0	1
+Venezuela	70	54	1.2962962963	4
+Vietnam	115	71	1.61971830986	9
+Yemen	10	10	1.0	1
+Zambia	17	15	1.13333333333	3
+Zimbabwe	16	9	1.77777777778	4
