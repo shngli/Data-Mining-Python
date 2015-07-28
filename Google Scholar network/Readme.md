@@ -1,0 +1,1 @@
+**google scholar.ipynb** retrieves individuals' Google Scholar connections, visualizes the scholars' networks and outputs the networks' degree distribution, degree centrality, closeness centrality and betweeness centrality.
